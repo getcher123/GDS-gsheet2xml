@@ -1,1 +1,1 @@
-web: arun.sh
+web: python app.py
